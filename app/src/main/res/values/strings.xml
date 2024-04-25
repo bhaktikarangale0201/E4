@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EXP_4</string>
+    <string-array name="sub_name">
+        <item>Android Development</item>
+        <item>Digital Marketing</item>
+        <item>Fiber Optic Communication</item>
+    </string-array>
+
+</resources>
